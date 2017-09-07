@@ -8,7 +8,7 @@ import json
 
 import csv
 
-#reading the file data into a text
+#reading the file data into a variable
 with open('first_years.txt', 'r') as myfile:
     data = myfile.read()
  
